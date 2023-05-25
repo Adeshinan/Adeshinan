@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Adeshinan
-- 👀 I’m interested in 
+- 👀 I’m interested in mobile and web dev
 - 🌱 I’m currently learning C++, HTML CSS Boostrap java C php Dart
 - 💞️ I’m looking to collaborate on line
 - 📫 How to reach me 
