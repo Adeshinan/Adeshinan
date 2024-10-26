@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @Adeshinan
-- 👀 I’m interested in mobile and web dev
-- 🌱 I’m currently learning C++, HTML CSS Boostrap java C php Dart
-- 💞️ I’m looking to collaborate on line
-- 📫 How to reach me 
+ALAGBE Faïd Adéshinan
+Analyste Programmeur | Développeur Web et Mobile | Community Manager | Designer Graphique
 
-<!---
-Adeshinan/Adeshinan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Professionnel de 22 ans, polyvalent et dynamique, avec une expertise en développement web et mobile (Flutter, Kotlin, Laravel, PHP) et une solide expérience en community management et design graphique (Figma, Photoshop). Actuellement étudiant en Licence Informatique de Gestion à l’Université de Rennes, j'ai effectué plusieurs stages, dont des missions de conception digitale et de développement d'applications chez CABRO Entreprise et Austral Tech. Je maîtrise également la création de solutions graphiques et l'UI/UX, ayant travaillé avec Assiri Service. Lauréat d’un challenge d’application pour l’agriculture, je m’adapte facilement et excelle dans les environnements collaboratifs et sous pression.
+
+Compétences clés : Développement (Backend et mobile), Community Management, Création graphique, Gestion de projets.
